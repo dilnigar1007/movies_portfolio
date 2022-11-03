@@ -1,4 +1,13 @@
 # movies_portfolio
+### Background
+As a group we decided to study the relationship between how people feel about movies and how the critics rate the movies. It's a valid idea because it shows the disconnection between people's opinions. One from a normal movie watcher's point of view compared to someone whose job is to rate the movies.  
+
+### Motivation
+We noticed that a lot of the movies that say they're good isn't good. So instead of wasting our time with average movies, we want a good movie we enjoy. 
+
+### Questions to answer
+Are the top 10 rated movies receiving positive comments from most viewers?
+
 ## Project outline:
 ### Understanding the topic and gather required information
 Our group focused on the relationship between top-rated movies and comments on them. Sometimes Rotten Tomato rates are different than what people actually think about those, and we see a variety of comments on twitter and other social media sites. We have downloaded our datasets from Kaggle.com. To be precise and make it not too complicated, we are going to focus on the top 10 movies. We have a clear question to answer throughout this analysis. 
