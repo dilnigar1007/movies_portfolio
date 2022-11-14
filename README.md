@@ -42,3 +42,8 @@ For this step, we will be using Tableu to create our visualizations/graphs to sh
 
 ### first step of cleaning the data:
 In this section, our group first converted tsv files we downloaded from Kaggle to csv file. In the first code, I imported "titles-ratings.csv" file to read in all the data we have. Next, sorted them by averagerating column, so we get the first ten or top ten movies in this dataset. I created a new dataframe based on this sorted data and only kept this 10 movies. In the next step of this data cleaning, we will be combining "title-metadata.csv" and this new data "topten_movies.csv" using SQL. Since we both have "tconst" columns in both datasets, we can join them and gather movies titles using this mutual column. 
+
+### data cleaning continues:
+We decided to shorten our list to top five movies instead of ten. That's why you would see a csv file "top_five_movies.csv". For this week's deliverable, I have inner joined "title-ratings.csv" and "title-metadata.csv". Since first dataframe was already sorted, I just kept the first five movies in the list and created a dataframe called top-five-movies-combined. 
+
+Our next step would be start collecting comments on Twitter through API, using NLP tool to clean the data we get from this source. After that we will come up with our conclusion and summary. Will continue working on presenting data.
