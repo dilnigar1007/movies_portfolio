@@ -6,7 +6,7 @@ As a group we decided to study the relationship between how people feel about mo
 We noticed that a lot of the movies that say they're good isn't good. So instead of wasting our time with average movies, we want a good movie we enjoy. 
 
 ### Questions to answer
-Are the top 10 rated movies receiving positive comments from most viewers?
+Are the top 5 rated movies receiving positive comments from most viewers?
 
 ## Project outline:
 ### Understanding the topic and gather required information
