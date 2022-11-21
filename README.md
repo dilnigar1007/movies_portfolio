@@ -47,3 +47,6 @@ In this section, our group first converted tsv files we downloaded from Kaggle t
 We decided to shorten our list to top five movies instead of ten. That's why you would see a csv file "top_five_movies.csv". For this week's deliverable, I have inner joined "title-ratings.csv" and "title-metadata.csv". Since first dataframe was already sorted, I just kept the first five movies in the list and created a dataframe called top-five-movies-combined. 
 
 Our next step would be start collecting comments on Twitter through API, using NLP tool to clean the data we get from this source. After that we will come up with our conclusion and summary. Will continue working on presenting data.
+
+### data cleaning final step:
+We originally wanted to come up with top ten movies and sorted the first ten by averageratings. But after all we found out that there is not much comments on these movies on Twitter since they were really old movies from the 60s and 70s. So, we adjusted our code, filtered startingyear to anything after 2010 and sorted by number of votes first and then average ratings. This time we shorten the list to five to make it simple. Movies turned out to be the most pouplar ones. And we started working on collecting comments on these movies on Twitter through NLP.
