@@ -6,7 +6,7 @@ As a group we decided to study the relationship between how people feel about mo
 We noticed that a lot of the movies that say they're good isn't good. So instead of wasting our time with average movies, we want a good movie we enjoy. 
 
 ### Questions to answer
-Are the top 5 rated movies receiving positive comments from most viewers?
+Are the top 10 rated movies receiving positive comments from most viewers?
 
 ## Project outline:
 ### Understanding the topic and gather required information
@@ -39,3 +39,14 @@ In addition to the dataset we got from Kaggle, we are currently working on Twitt
 In the next step, we’re going to decide on our important variable that we’re going to use for our analysis. 
 ### Visualization and presentation:
 For this step, we will be using Tableu to create our visualizations/graphs to show our results, which we will be using for our presentation later on. In our presentation, we will be using graphs to show how and where we got our data, what codes we used to clean the data and create our models, how we worked through APIs to extract data from Twitter, and data validation. Lastly, we will have a section for data restriction and limitations. 
+
+### first step of cleaning the data:
+In this section, our group first converted tsv files we downloaded from Kaggle to csv file. In the first code, I imported "titles-ratings.csv" file to read in all the data we have. Next, sorted them by averagerating column, so we get the first ten or top ten movies in this dataset. I created a new dataframe based on this sorted data and only kept this 10 movies. In the next step of this data cleaning, we will be combining "title-metadata.csv" and this new data "topten_movies.csv" using SQL. Since we both have "tconst" columns in both datasets, we can join them and gather movies titles using this mutual column. 
+
+### data cleaning continues:
+We decided to shorten our list to top five movies instead of ten. That's why you would see a csv file "top_five_movies.csv". For this week's deliverable, I have inner joined "title-ratings.csv" and "title-metadata.csv". Since first dataframe was already sorted, I just kept the first five movies in the list and created a dataframe called top-five-movies-combined. 
+
+Our next step would be start collecting comments on Twitter through API, using NLP tool to clean the data we get from this source. After that we will come up with our conclusion and summary. Will continue working on presenting data.
+
+### data cleaning final step:
+We originally wanted to come up with top ten movies and sorted the first ten by averageratings. But after all we found out that there is not much comments on these movies on Twitter since they were really old movies from the 60s and 70s. So, we adjusted our code, filtered startingyear to anything after 2010 and sorted by number of votes first and then average ratings. This time we shorten the list to five to make it simple. Movies turned out to be the most pouplar ones. And we started working on collecting comments on these movies on Twitter through NLP.
