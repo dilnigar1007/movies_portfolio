@@ -1,0 +1,23 @@
+CREATE TABLE movies AS
+   SELECT final."tconst", 
+   final."Rating",
+   final."Votes",
+   final."Type",
+   final."Year",
+   final."Title",
+   final."Adult", 
+   final."Minutes"
+FROM final
+WHERE (final."Year" BETWEEN '2010-01-01' AND '2021-12-31')
+AND (final."tconst" BETWEEN 'tt0458339' AND 'tt0993846');
+
+CREATE TABLE top_five_movies AS
+   SELECT movies."tconst", 
+   movies."Rating",
+   movies."Votes",
+   movies."Type",
+   movies."Year",
+   movies."Title", 
+   movies."Minutes"
+FROM movies
+FETCH FIRST 5 ROWS ONLY;

@@ -1,0 +1,233 @@
+tconst;Rating;Votes;Type;Year;Title;Adult;Minutes
+tt0816692;8.6;1790927;movie;2014;Interstellar;0;169
+tt0993846;8.2;1384128;movie;2013;The Wolf of Wall Street;0;180
+tt0848228;8;1379652;movie;2012;The Avengers;0;143
+tt0800369;7;843189;movie;2011;Thor;0;115
+tt0458339;6.9;838292;movie;2011;Captain America: The First Avenger;0;124
+tt0903624;7.8;821945;movie;2012;The Hobbit: An Unexpected Journey;0;169
+tt0770828;7.1;765113;movie;2013;Man of Steel;0;143
+tt0816711;7;661638;movie;2013;World War Z;0;116
+tt0478970;7.3;659646;movie;2015;Ant-Man;0;117
+tt0948470;6.9;652326;movie;2012;The Amazing Spider-Man;0;136
+tt0780504;7.8;634007;movie;2011;Drive;0;100
+tt0470752;7.7;541287;movie;2014;Ex Machina;0;108
+tt0945513;7.5;518945;movie;2011;Source Code;0;93
+tt0790636;7.9;486019;movie;2013;Dallas Buyers Club;0;117
+tt0974015;6.1;449985;movie;2017;Justice League;0;120
+tt0831387;6.4;413235;movie;2014;Godzilla;0;123
+tt0790724;7;341157;movie;2012;Jack Reacher;0;130
+tt0970179;7.5;322875;movie;2011;Hugo;0;126
+tt0803096;6.7;263706;movie;2016;Warcraft;0;123
+tt0837562;7;254630;movie;2012;Hotel Transylvania;0;91
+tt0978764;6;243175;movie;2011;Sucker Punch;0;110
+tt0983193;7.3;231203;movie;2011;The Adventures of Tintin;0;107
+tt0481499;7.2;214675;movie;2013;The Croods;0;98
+tt0993842;6.8;199390;movie;2011;Hanna;0;111
+tt0829150;6.2;195159;movie;2014;Dracula Untold;0;92
+tt0870154;6.6;185956;movie;2021;Jungle Cruise;0;127
+tt0810819;7.1;185559;movie;2015;The Danish Girl;0;119
+tt0478304;6.8;177328;movie;2011;The Tree of Life;0;139
+tt0918940;6.2;177190;movie;2016;The Legend of Tarzan;0;110
+tt0993840;5.7;171574;movie;2021;Army of the Dead;0;148
+tt0458481;6.5;162281;movie;2014;Sin City: A Dame to Kill For;0;102
+tt0472399;6.5;161350;movie;2011;The Mechanic;0;93
+tt0990407;5.8;160833;movie;2011;The Green Hornet;0;119
+tt0471042;6.2;144624;movie;2011;Tower Heist;0;104
+tt0816442;7.5;135840;movie;2013;The Book Thief;0;131
+tt0475290;6.3;135091;movie;2016;Hail, Caesar!;0;106
+tt0790736;5.6;133331;movie;2013;R.I.P.D.;0;96
+tt0905372;6.2;132833;movie;2011;The Thing;0;103
+tt0480687;5.9;126230;movie;2011;Hall Pass;0;105
+tt0822847;5.7;120326;movie;2011;Priest;0;87
+tt0490215;7.1;113041;movie;2016;Silence;0;161
+tt0848537;6.6;105674;movie;2013;Epic;0;102
+tt0477302;6.9;102249;movie;2011;Extremely Loud & Incredibly Close;0;129
+tt0816462;5.1;99420;movie;2011;Conan the Barbarian;0;113
+tt0479997;5.4;94563;movie;2011;Season of the Witch;0;95
+tt0837563;5.7;92404;movie;2019;Pet Sematary;0;101
+tt0472181;5.4;90749;movie;2011;The Smurfs;0;103
+tt0882977;6.4;88725;movie;2013;Snitch;0;112
+tt0810913;3.3;85022;movie;2011;Jack and Jill;0;91
+tt0770703;6;81540;movie;2011;What's Your Number?;0;106
+tt0884732;6.6;76459;movie;2015;The Wedding Ringer;0;101
+tt0975645;6.8;76301;movie;2012;Hitchcock;0;98
+tt0790628;5.9;73957;movie;2013;The Incredible Burt Wonderstone;0;100
+tt0795461;3.5;72058;movie;2013;Scary Movie V;0;88
+tt0864835;6.8;70746;movie;2014;Mr. Peabody & Sherman;0;92
+tt0873886;6.1;64785;movie;2011;Red State;0;88
+tt0938330;4.9;63831;movie;2012;Silent Hill: Revelation;0;95
+tt0491152;5.8;62565;movie;2011;Something Borrowed;0;112
+tt0787474;6.8;58093;movie;2014;The Boxtrolls;0;96
+tt0499097;5.8;57858;movie;2021;Without Remorse;0;109
+tt0787524;7.2;57616;movie;2015;The Man Who Knew Infinity;0;108
+tt0881320;5.9;55801;movie;2011;Sanctum;0;108
+tt0810922;6.3;53618;movie;2011;Take Me Home Tonight;0;114
+tt0983946;4.9;52510;movie;2020;Fantasy Island;0;109
+tt0800325;6.9;49692;movie;2019;The Dirt;0;107
+tt0493405;6;48253;movie;2017;CHIPS;0;100
+tt0491175;5.7;44536;movie;2017;Suburbicon;0;105
+tt0763831;5.8;42918;movie;2012;A Thousand Words;0;91
+tt0462335;5.5;42828;movie;2015;High-Rise;0;119
+tt0498381;4.5;40907;movie;2017;Rings;0;102
+tt0805647;5.3;40660;movie;2020;The Witches;0;106
+tt0903657;7.4;39850;movie;2014;Love & Mercy;0;121
+tt0770802;8.4;36045;movie;2011;Samsara;0;102
+tt0485985;5.9;35745;movie;2012;Red Tails;0;125
+tt0458413;6.3;33459;movie;2014;A Long Way Down;0;96
+tt0469021;6.9;31869;movie;2013;Alan Partridge;0;90
+tt0775440;4.4;28262;movie;2016;Cell;0;98
+tt0859635;6;26776;movie;2018;Super Troopers 2;0;100
+tt0900387;7;26636;movie;2014;Suite Française;0;107
+tt0765446;5.8;25863;movie;2012;Escape from Planet Earth;0;89
+tt0938305;6.8;23348;movie;2012;Freaky Deaky;0;90
+tt0804463;6.1;22059;movie;2013;Devil's Knot;0;114
+tt0491203;6.2;21348;movie;2017;Tulip Fever;0;105
+tt0961097;6.7;21290;movie;2011;A Monster in Paris;0;90
+tt0857190;6.1;19809;movie;2012;The Sweeney;0;112
+tt0803061;7.3;18175;movie;2011;Red Dog;0;92
+tt0466893;6.5;17531;movie;2011;Margaret;0;150
+tt0860907;6.9;15654;movie;2012;Evangelion: 3.0 You Can (Not) Redo;0;96
+tt0893412;5.5;15151;movie;2011;From Prada to Nada;0;107
+tt0460890;6.3;14858;movie;2017;The Only Living Boy in New York;0;89
+tt0480239;5.6;13836;movie;2011;Atlas Shrugged: Part I;0;97
+tt0844993;4.7;13179;movie;2011;Hoodwinked 2: Hood vs. Evil;0;87
+tt0762138;5.6;12143;movie;2013;Syrup;0;90
+tt0783640;6.8;11923;movie;2019;The Last Full Measure;0;116
+tt0790770;6.4;10137;movie;2015;Miles Ahead;0;100
+tt0780548;6.4;10054;movie;2014;Kid Cannabis;0;110
+tt0835418;4.9;8721;movie;2012;The Babymakers;0;95
+tt0837156;6.1;8149;movie;2016;Pee-wee's Big Holiday;0;90
+tt0829176;3.5;7796;movie;2012;Gallowwalkers;0;92
+tt0910885;5.1;7081;movie;2014;A Merry Friggin' Christmas;0;88
+tt0972544;6.5;6260;movie;2018;Back Roads;0;101
+tt0768222;5.5;6097;movie;2013;Night of the Templar;0;101
+tt0884726;5;6057;movie;2013;Legends of Oz: Dorothy's Return;0;88
+tt0825283;3.6;4543;movie;2016;Maximum Ride;0;88
+tt0920462;4.7;4516;movie;2020;Lost Girls and Love Hotels;0;97
+tt0787442;7.1;4312;movie;2012;The Attack;0;102
+tt0817545;5.2;4026;movie;2013;The Power of Few;0;96
+tt0459748;6.7;3976;movie;2011;Generation P;0;112
+tt0485061;6.3;3107;movie;2013;U Want Me 2 Kill Him?;0;92
+tt0959306;4.8;3007;movie;2014;Reach Me;0;95
+tt0850677;4.4;2982;movie;2012;Jack & Diane;0;105
+tt0493076;5.4;2875;movie;2016;Nina;0;90
+tt0780645;4.1;2693;movie;2011;War of the Dead;0;86
+tt0906778;6.1;2185;movie;2011;Black Butterflies;0;100
+tt0839742;7.1;2103;movie;2014;Bhopal: A Prayer for Rain;0;96
+tt0790788;6.3;1940;movie;2012;The Yellow Wallpaper;0;115
+tt0461336;5.9;1937;movie;2011;Private Pérez;0;105
+tt0865560;5.1;1906;movie;2011;Now & Later;0;99
+tt0847825;4.8;1843;movie;2011;The Speed of Thought;0;93
+tt0969345;7.5;1832;movie;2012;Strange Frame: Love & Sax;0;98
+tt0463960;3.3;1816;movie;2013;The Devil You Know;0;76
+tt0811137;5.9;1789;movie;2012;The Do-Deca-Pentathlon;0;90
+tt0862748;5.4;1717;movie;2014;Rupan sansei;0;133
+tt0878814;4.4;1654;movie;2012;Jewtopia;0;90
+tt0835802;5.5;1565;movie;2017;Krystal;0;90
+tt0810772;5;1370;movie;2012;Belle Du Seigneur;0;104
+tt0496375;3.7;1359;movie;2013;Prisoners of the Sun;0;85
+tt0887143;2.8;1049;movie;2011;Hyenas;0;92
+tt0795459;6.6;971;movie;2011;Wilde Salomé;0;95
+tt0835775;4.6;945;movie;2014;Electric Slide;0;95
+tt0848554;3.7;921;movie;2016;The Sighting;0;98
+tt0981286;6.4;898;movie;2011;Funkytown;0;132
+tt0810836;5.3;827;movie;2019;Dirt Music;0;105
+tt0804509;5.6;808;movie;2013;The Mule;0;100
+tt0865561;4.8;715;movie;2011;6 Month Rule;0;100
+tt0851471;3.1;698;movie;2012;Sir Billi;0;76
+tt0498351;4;649;movie;2014;The Hero of Color City;0;77
+tt0926132;3.8;646;movie;2020;Road to Red;0;120
+tt0790653;6.1;574;movie;2012;Elliot Loves;0;92
+tt0858419;5.5;555;movie;2019;Bolden;0;108
+tt0980999;5.9;542;movie;2012;Four;0;75
+tt0862930;6.6;476;movie;2018;Dukun;0;108
+tt0875613;2.6;459;movie;2011;Rift;0;100
+tt0464054;6.8;391;movie;2014;House at the End of the Drive;0;97
+tt0485521;6.3;383;movie;2012;Sushi in Suhl;0;100
+tt0490075;4.8;381;movie;2013;Aftermath;0;84
+tt0899154;5;364;movie;2011;The Key Man;0;80
+tt0929742;3.2;361;movie;2011;Deep Gold 3D;0;86
+tt0810856;6.2;340;movie;2011;Eyes of the Mothman;0;150
+tt0880569;4.3;344;movie;2011;Mama I Want to Sing;0;100
+tt0847180;3.4;333;movie;2011;Loot;0;110
+tt0906013;2.8;328;movie;2012;The Grind;0;85
+tt0837559;3.5;275;movie;2013;Approaching Midnight;0;86
+tt0983250;3;255;movie;2012;You're Nobody 'til Somebody Kills You;0;86
+tt0853155;6.6;245;movie;2011;This Is What Love in Action Looks Like;0;74
+tt0986361;3.9;244;movie;2011;The Magic Crystal;0;80
+tt0932667;5.1;166;movie;2016;The Man in the Silo;0;55
+tt0484828;2.9;235;movie;2011;La daga de Rasputín;0;99
+tt0810001;6.5;208;movie;2018;Glastonbury Fayre;0;87
+tt0969332;3.3;207;movie;2011;Little Witch on a Broomstick;0;90
+tt0780625;3.6;158;movie;2013;Santorini Blue;0;90
+tt0469152;5.5;143;movie;2011;Smoking Nonsmoking;0;84
+tt0825282;6.4;138;movie;2011;The Long Falling;0;105
+tt0772175;5.6;133;movie;2014;Jersey Justice;0;100
+tt0892062;6.1;113;movie;2014;Hamlet A.D.D.;0;95
+tt0772179;4.5;124;movie;2011;Kill;0;90
+tt0495024;5.5;119;movie;2012;Bad Blood;0;107
+tt0805617;6.9;123;movie;2011;Spoon;0;\N
+tt0852986;5.3;95;movie;2011;Naked Run;0;84
+tt0858422;5.5;105;movie;2011;Immortal Island;0;84
+tt0464891;6.7;104;movie;2011;Act Your Age;0;101
+tt0811613;6.5;102;movie;2013;Meridian Lines;0;\N
+tt0926170;5.5;91;movie;2012;White Men Can't Dance;0;105
+tt0865557;6.3;92;movie;2012;Letting Go;0;83
+tt0479700;5.9;87;movie;2013;Without Warrant;0;90
+tt0892077;6.2;82;movie;2011;Gun of the Black Sun;0;90
+tt0984084;5.7;84;movie;2011;El Padrino II: Border Intrusion;0;90
+tt0811069;7.5;74;movie;2011;Lavoe;0;90
+tt0486622;6.8;77;movie;2012;Making Change;0;94
+tt0825334;8.4;70;movie;2017;Caravaggio and My Mother the Pope;0;90
+tt0470936;4.2;70;movie;2016;Hot Country, Cold Winter;0;104
+tt0490847;5;70;movie;2011;Double Tap;0;100
+tt0961755;5;71;movie;2012;The Trouble with Cali;0;\N
+tt0844915;7.6;66;movie;2011;Pox;0;100
+tt0991173;7.4;69;movie;2012;The Significant Other;0;90
+tt0907852;5.9;68;movie;2012;Exposed;0;82
+tt0874268;7.5;51;movie;2017;The Dot Man;0;\N
+tt0473122;6.5;65;movie;2011;Bamboo Shark;0;\N
+tt0841185;6.9;57;movie;2012;Whatever Happened to Pete Blaggit?;0;94
+tt0781441;4.6;51;movie;2011;Escalade;0;80
+tt0808447;9.2;51;movie;2013;The Last Pogo Jumps Again;0;200
+tt0460528;8;43;movie;2012;One Step Beyond: The True Story of Géraldine Fasnacht;0;56
+tt0828135;8.5;44;movie;2012;Wild in the Streets;0;82
+tt0893310;7.5;40;movie;2011;Blur;0;90
+tt0816648;6.7;41;movie;2011;Shanghai Hotel;0;110
+tt0843839;7.5;39;movie;2013;The Fallen Word;0;60
+tt0770728;6.5;38;movie;2011;California Indian;0;90
+tt0469158;7.1;39;movie;2011;Platinum Illusions;0;\N
+tt0918553;6.5;37;movie;2011;Periphery;0;\N
+tt0821486;6.4;36;movie;2016;Manhattan Minutiae;0;99
+tt0473088;8.9;34;movie;2011;Stan;0;\N
+tt0818543;6.8;34;movie;2021;Z;0;\N
+tt0960727;4.3;33;movie;2013;Let Me Survive;0;\N
+tt0937225;5.3;32;movie;2017;Joe Dick;0;96
+tt0460809;8.5;23;movie;2011;The Grasslands;0;114
+tt0462036;5.6;28;movie;2012;Steve Phoenix: The Untold Story;0;110
+tt0481470;5.9;25;movie;2013;Felix Austria!;0;77
+tt0483740;7.8;30;movie;2011;Monkey Man;0;\N
+tt0902456;3.5;29;movie;2011;Silent Vengeance;0;90
+tt0475239;8;28;movie;2012;Clutch;0;\N
+tt0855705;6.9;24;movie;2013;Young American Dream;0;107
+tt0847505;8.3;18;movie;2013;Night Traveler;0;\N
+tt0961725;4.7;23;movie;2011;Devour;0;\N
+tt0838194;7.9;20;movie;2016;Retreat!;0;\N
+tt0906327;7.1;20;movie;2016;The Unlikely's;0;\N
+tt0850678;6.7;20;movie;2015;Jackson Arms;0;90
+tt0983190;5;20;movie;2013;The Unwanted;0;95
+tt0850247;6.2;19;movie;2018;Amsteroid;0;98
+tt0887266;8.9;17;movie;2013;Rollerboy;0;81
+tt0865911;6.3;13;movie;2011;Catharsis;0;89
+tt0961036;7.8;16;movie;2014;Avenge;0;88
+tt0918520;7.5;16;movie;2016;Gangster Kittens;0;\N
+tt0479807;8.2;14;movie;2011;Abhishapt;0;\N
+tt0949872;6.6;14;movie;2014;Coffee Sex You;0;88
+tt0460957;8.7;13;movie;2012;Texxas Jam '78;0;60
+tt0977643;5.6;11;movie;2015;Chooriyan;0;\N
+tt0972848;7.7;11;movie;2011;Lives and Deaths of the Poets;0;93
+tt0875612;7.1;8;movie;2011;Rain Falls from Earth: Surviving Cambodia's Darkest Hour;0;\N
+tt0770819;8.5;10;movie;2011;She's Out of His Mind;0;80
+tt0485535;5.3;9;movie;2014;Dil Ka Sauda;0;136
+tt0871891;5.7;8;movie;2012;The Nightclub Days;0;\N
+tt0484037;8.8;7;movie;2011;Gente mala del norte;0;97
